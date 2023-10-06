@@ -1,2 +1,3 @@
+cd Sample/
 npm i
 node app.js
